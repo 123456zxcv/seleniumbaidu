@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  <parameter name="data1" value="1000"></parameter>
+    <classes>
+      <class name="day07.pioTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
